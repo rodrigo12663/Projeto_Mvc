@@ -1,6 +1,6 @@
 <?php
 	
-$PastaInterna="Projeto_Mvc/";
+$PastaInterna="aula_mvc_php/";
 define('DIRPAGE',"http://{$_SERVER['HTTP_HOST']}/{$PastaInterna}");
 
 
